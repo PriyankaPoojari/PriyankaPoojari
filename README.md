@@ -2,7 +2,7 @@
 
 🚀 QA Lead | Automation & Performance Testing | BFSI Expert
 
-- Almost 13 years of experience in Software Quality Assurance
+- Overall 13 years of experience in Software Quality Assurance
 - Expertise in automation, performance testing, and test strategy for complex systems
 - Passionate about accelerating automation, reducing flakiness and optimizing test strategies
 
